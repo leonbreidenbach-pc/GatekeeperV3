@@ -1,5 +1,9 @@
 ﻿# **Gatekeeper**
 
+
+**MAINTENANCE MODE ONLY**
+
+
 Welcome to the efforts of countless hours of learning and failed attempts at writing code that culminated into this project known as Gatekeeper! Originally this started out as a bot to bring CubeCoders AMP to Discord with support for only Minecraft, but has evolved into this encompasing project of providing support for any type of server AMP can run along with providing as many of AMPs core features inside of Discord.
 
 Need Support or have questions? Please visit my Discord and post in the respective channels. 
