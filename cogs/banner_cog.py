@@ -248,7 +248,7 @@ class Banner(commands.Cog):
             for curpos in range(0, len(message_list)):
                 try:
                     if first_msg:
-                        await message_list[curpos].edit(content=f"*Edited at {discord.utils.utcnow().strftime('%Y-%m-%d | %H:%M')}*", attachments=[banner_image_list[curpos]], embed=None)
+                        await message_list[curpos].edit(content=f"*Zuletzt aktualisiert: {discord.utils.utcnow().strftime('%Y-%m-%d | %H:%M')}*", attachments=[banner_image_list[curpos]], embed=None)
                         first_msg = False
                     else:
                         await message_list[curpos].edit(attachments=[banner_image_list[curpos]], embed=None)
